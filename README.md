@@ -37,9 +37,6 @@ A web application that allows PES University students to **order food online fro
 
 ---
 
-
----
-
 ## ⚡ How It Works  
 
 1. Students log in and browse the canteen menu.  
