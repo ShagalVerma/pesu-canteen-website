@@ -37,5 +37,15 @@ A web application that allows PES University students to **order food online fro
 
 ---
 
-## 📂 Project Structure  
+
+---
+
+## ⚡ How It Works  
+
+1. Students log in and browse the canteen menu.  
+2. Orders are placed and paid for through the **Stripe payment gateway**.  
+3. Admins receive orders in real-time, prepare them, and update their status.  
+4. Students get notified when their order is ready to be picked up from the counter.  
+
+---
 
